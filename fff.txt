@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 ffff
 
-=======
-ffff
->>>>>>> train
